@@ -11,4 +11,4 @@ Resources are given below.
 5. Jupyter Notebook
 
 ### Here is my compelte tutorial on how to run this notebook and how to label the images for your database:
-https://t.ly/s2D_
+https://www.facebook.com/iCodeguru/videos/731665471434122
